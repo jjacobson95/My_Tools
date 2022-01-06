@@ -37,7 +37,7 @@ print(myPageTitle)
 #assert "Ikon" in myPageTitle   
 
 my_email = "Jeremy.Jacobson3402@gmail.com"
-my_password = "Midnight34@2"
+my_password = password
 
 email_location = driver.find_element(By.NAME, "email")
 
